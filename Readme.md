@@ -1,34 +1,14 @@
-# TestApp1/app
+#ExtJS Colorado County Demo
+> A demonstration of some of the features available in ExtJS framework
 
-This folder contains the javascript files for the application.
+##Demo
+A live demo of the app is available [here](http://andrewweeks.hopto.org/Web/WorkSpace/ExtJSCountyDemoApp)
 
-# TestApp1/resources
+##About
+* Is built using ExtJS MVC framework
+* Contains examples of many core components of ExtJS in a simple design layout
+* Uilizing a number of public web services (including flickr) to derive some ancillary data.
+* Some of the initial parsing was done via c# console app
 
-This folder contains static resources (typically an `"images"` folder as well).
-
-# TestApp1/overrides
-
-This folder contains override classes. All overrides in this folder will be 
-automatically included in application builds if the target class of the override
-is loaded.
-
-# TestApp1/sass/etc
-
-This folder contains misc. support code for sass builds (global functions, 
-mixins, etc.)
-
-# TestApp1/sass/src
-
-This folder contains sass files defining css rules corresponding to classes
-included in the application's javascript code build.  By default, files in this 
-folder are mapped to the application's root namespace, 'TestApp1'. The
-namespace to which files in this directory are matched is controlled by the
-app.sass.namespace property in TestApp1/.sencha/app/sencha.cfg. 
-
-# TestApp1/sass/var
-
-This folder contains sass files defining sass variables corresponding to classes
-included in the application's javascript code build.  By default, files in this 
-folder are mapped to the application's root namespace, 'TestApp1'. The
-namespace to which files in this directory are matched is controlled by the
-app.sass.namespace property in TestApp1/.sencha/app/sencha.cfg. 
+##Questions or Comments
+Feel free to reach out to me, adweeks@gmail.com
